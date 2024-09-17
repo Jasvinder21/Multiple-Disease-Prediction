@@ -4,15 +4,15 @@
 ![image](https://github.com/user-attachments/assets/5eb798ba-997c-4530-b592-b21fb92bf021)
 ![image](https://github.com/user-attachments/assets/4ead4fd1-c490-4083-86e4-9bec1e79d389)
 
-Table of Contents
-Overview
-Features
-Datasets
-Exploratory Data Analysis
-Machine Learning Models
-Installation
-Usage
-Contributing
-License
-Contact
+Table of Contents:
+1.Overview
+2.Features
+3.Datasets
+4.Exploratory Data Analysis
+5.Machine Learning Models
+6.Installation
+7.Usage
+8.Contributing
+9.License
+10.Contact
 
